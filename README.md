@@ -1,2 +1,2 @@
-# LeetCodePython
-My Python solutions for Leetcode programming challenges!
+# LeetCodeJava
+My Java solutions for Leetcode programming challenges!
