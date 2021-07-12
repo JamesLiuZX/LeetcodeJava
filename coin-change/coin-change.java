@@ -11,7 +11,7 @@ class Solution {
                 if (i >= coins[j]){ //skip loop if current amount is less than current coin
                     int result = dp[i - coins[j]] + 1;       
                     if (result < dp[i]){
-                        dp[i] = result;
+                        dp[i] = result; //store least number of coins needed into dp[i]
                     }
                 }
             }
