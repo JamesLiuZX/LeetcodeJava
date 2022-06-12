@@ -1,2 +1,2 @@
 # LeetCodeJava
-My Java solutions for Leetcode programming challenges!
+My solutions for Leetcode programming challenges!
